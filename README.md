@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MohdMisbah
+- 👀 I’m interested in Coding,and I am a Data Analyst. 
+- 🌱 I’m currently learning Excel, Power BI, Power point and R programing language
+- 📫 How to reach me misbah8881900999@gmail.com
